@@ -1,0 +1,1 @@
+This repository shares the code for the paper entitled "Deepfakes on Demand: the rise of accessible non-consensual deepfake image generators", published at the Fairness, Accountability, and Transparency (FAccT) conference in 2025.
